@@ -1,0 +1,19 @@
+<resources>
+    <string name="channer_fcm_id" translatable="false">channer_fcm_id</string>
+
+    <string name="app_name">FitPat Test</string>
+
+    <string name="api_error" translatable="false">[%d] </string>
+    <string name="err_unknown" translatable="false">알 수 없는 에러가 발생하였습니다. 잠시 후 다시 시도해 주세요.</string>
+
+    <string name="error">Error</string>
+    <string name="Done">확인</string>
+
+    <string name="format_max_tmp">최고 (%s°C)</string>
+    <string name="format_min_tmp">최소 (%s°C)</string>
+    <string name="format_for_weather">[%s]의 날씨</string>
+    <string name="format_for_weather_with_date">[%s] - %s</string>
+    <string name="format_weather_date">MM월dd일 (HH:mm)</string>
+    <string name="str_today">오늘 (%s)</string>
+    <string name="str_tomorow">내일 (%s)</string>
+</resources>

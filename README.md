@@ -1,2 +1,2 @@
-# FitPet
-FitPet Test Code
+# fitpet
+fitpet test code project

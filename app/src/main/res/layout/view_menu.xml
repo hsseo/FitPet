@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/android"
+    android:id="@+id/layer_main"
+    android:layout_width="wrap_content"
+    android:layout_height="56dp"
+    android:background="@color/Transper">
+
+    <ImageView
+        android:id="@+id/iv_menu"
+        android:layout_width="56dp"
+        android:layout_height="30dp"
+        android:paddingStart="13dp"
+        android:paddingEnd="13dp"
+        android:layout_centerInParent="true"
+        tools:src="#f00"/>
+
+    <TextView
+        android:id="@+id/tv_menu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingStart="15dp"
+        android:paddingEnd="15dp"
+        android:layout_centerInParent="true"
+        android:textColor="@color/white"
+        android:textSize="13sp"
+        tools:text="메뉴"/>
+
+</RelativeLayout>
